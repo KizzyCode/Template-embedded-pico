@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.cps": "javascript",
+        "utils.h": "c",
+        "stdbool.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
